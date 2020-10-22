@@ -6,9 +6,12 @@ https://github.com/goodybag/mongo-sql
 
 ### How to use
 
+```
 yarn
+```
+```
 npm start
-
+```
 
 ### Sample Queries
 
